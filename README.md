@@ -1,5 +1,5 @@
 # quickQuiz
-A service to provide aptitude questions. 
+A backend-service to provide aptitude questions. 
 Features:
 - mcq type questions
 
