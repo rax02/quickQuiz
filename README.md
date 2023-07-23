@@ -4,7 +4,7 @@ Features:
 - mcq type questions
 
 Technologies used :
-* gRPC
+* REST
 * Java
 * docker container
 * Google cloud
