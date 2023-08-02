@@ -4,12 +4,11 @@ Features:
 - mcq type questions
 
 Technologies used :
-* REST
+* REST - springboot
 * Java
-* docker container
 * Google cloud
   - VPC
-  - cloud run
+  - app engine
   - IAM
   - cloud deploy
  
@@ -24,7 +23,7 @@ SDLC:
   - jUnit
 * release
 * deploy:
-  - cloud run
+  - app engine: as it is pay per request
   - terraform
 * operate
 * monitor
